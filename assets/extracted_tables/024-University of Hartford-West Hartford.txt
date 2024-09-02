@@ -1,0 +1,63 @@
+====================================================================================================
+title: time_to_complete
+========================================================================================================================================================================================================
+                                                                       0                                     1   2          3   4          5   6          7   8          9   10         11  12         13  14         15  16         17  18         19  20     21  22
+0                                                                 Outcome  Year in which Degrees were Conferred                                                                                                                                                      
+1                                                                                                     2009-2010      2010-2011      2011-2012      2012-2013      2013-2014      2014-2015      2015-2016      2016-2017      2017-2018      2018-2019      Total    
+2   Total number of students with doctoral degree conferred on transcript                                    23             19             26             17             24             24             18             21             17             24        213    
+3                            Mean number of years to complete the program                                   4.8              7            6.4            6.3            5.8            5.5            5.5            5.6            5.9            5.7       58.5    
+4                          Median number of years to complete the program                                     5            6.5              5            6.5           5.75              5              5            5.5              5              5      54.25    
+5                                                   Time to Degree Ranges                                     N   %          N   %          N   %          N   %          N   %          N   %          N   %          N   %          N   %          N   %      N   %
+6                                           Students in less than 5 years                                    10  43          4  21          1   4          2  12          2   8          2   8          2  11          3  14          1   6          2   8     29  14
+7                                                     Students in 5 years                                    12  52          5  26         12  46          6  35         11  46         12  50         10  56          8  38          8  47         12  50     96  45
+8                                                     Students in 6 years                                     0   0          2  11          5  19          4  24          9  38          6  25          4  22          5  24          4  24          6  25     45  21
+9                                                     Students in 7 years                                     0   0          0   0          2   8          2  12          0   0          2   8          1   6          3  14          2  12          3  13     15   7
+10                                          Students in more than 7 years                                     1   4          8  42          6  23          3  18          2   8          2   8          1   6          2  10          2  12          1   4     28  13
+========================================================================================================================================================================================================
+====================================================================================================
+title: tuition
+========================================================================================================================================================================================================
+                                                                                                            0                               1
+0                                                                                                 Description  2019-2020 1st-year Cohort Cost
+1                                     Tuition for full-time students (in-state); Fall+Spring+Summer semesters                         $28,115
+2                                 Tuition for full-time students (out-of-state); Fall+Spring+Summer semesters                         $28,115
+3  Tuition per credit hour for part-time students (if applicable enter amount; if not applicable enter "NA" )                          $1,162
+4                                                                        University/institution fees or costs                            $375
+5                                   Additional estimated fees or costs to students (e.g. books, travel, etc.)                          $1,600
+========================================================================================================================================================================================================
+====================================================================================================
+title: internship
+========================================================================================================================================================================================================
+                                                                                                                              0                            1    2          3   4          5   6          7   8          9   10         11  12         13   14         15   16         17   18         19  20
+0                                                                                                                        Outcome  Year Applied for Internship                                                                                                                                               
+1                                                                                                                                                   2009-2010       2010-2011      2011-2012      2012-2013      2013-2014      2014-2015      2015-2016       2016-2017       2017-2018       2018-2019    
+2                                                                                                                                                           N    %          N   %          N   %          N   %          N   %          N   %          N    %          N    %          N    %          N   %
+3                                                                           Students who obtained APA/CPA-accredited internships                           16   94         15  79         19  61         24  73         20  74         19  79         18  100         23   96         24   96         23  92
+4                                Students who obtained APPIC member internships that were not APA/CPA-accredited (if applicable)                            1    6          3  16          4  13          4  12          4  15          1   4          0    0          1    4          1    4          1   4
+5  Students who obtained other membership organization internships (e.g. CAPIC) that were not APA/CPA-accredited (if applicable)                            0    0          0   0          0   0          0   0          0   0          0   0          0    0          0    0          0    0          0   0
+6             Students who obtained  internships conforming to CDSPP guidelines that were not APA/CPA-accredited (if applicable)                            0    0          0   0          0   0          0   0          0   0          0   0          0    0          0    0          0    0          0   0
+7                                       Students who obtained other internships that were not APA/CPA-accredited (if applicable)                            0    0          0   0          0   0          0   0          0   0          0   0          0    0          0    0          0    0          0   0
+8                                                                                           Students who obtained any internship                           17  100         18  95         23  74         28  85         24  89         20  83         18  100         24  100         25  100         24  96
+9                       Students who sought or applied for internships including those who withdrew from the application process                           17    -         19   -         31   -         33   -         27   -         24   -         18    -         24    -         25    -         25   -
+========================================================================================================================================================================================================
+====================================================================================================
+title: attrition
+========================================================================================================================================================================================================
+                                                                                   0                         1    2          3   4          5   6          7   8          9   10         11  12         13  14         15   16         17  18         19  20
+0                                                                            Variable  Year of First Enrollment                                                                                                                                             
+1                                                                                                     2009-2010       2010-2011      2011-2012      2012-2013      2013-2014      2014-2015      2015-2016      2016-2017       2017-2018      2018-2019    
+2                                                                                                             N    %          N   %          N   %          N   %          N   %          N   %          N   %          N    %          N   %          N   %
+3          Students for whom this is the year of first enrollment (i.e. new students)                        24    -         23   -         23   -         23   -         24   -         25   -         23   -         28    -         26   -         23   -
+4                 Students whose doctoral degrees were conferred on their transcripts                        24  100         19  83         17  74         17  74         13  54          2   8          0   0          0    0          0   0          0   0
+5                                                  Students still enrolled in program                         0    0          1   4          4  17          3  13         11  46         22  88         18  78         28  100         25  96         22  96
+6  Students no longer enrolled for any reason other than conferral of doctoral degree                         0    0          3  13          2   9          3  13          0   0          1   4          5  22          0    0          1   4          1   4
+========================================================================================================================================================================================================
+====================================================================================================
+title: licensure
+========================================================================================================================================================================================================
+                                                                                                                   0          1
+0                                                                                                            Outcome  2009-2019
+1        The total number of program graduates (doctoral degrees conferred on transcript) between 2 and 10 years ago        169
+2  The number of these graduates (between 2 and 10 years ago) who became licensed psychologists in the past 10 years        164
+3                                                                                               Licensure percentage        97%
+========================================================================================================================================================================================================

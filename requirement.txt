@@ -1,2 +1,0 @@
-# python==3.12.4
-beautifulsoup4==4.12.3
